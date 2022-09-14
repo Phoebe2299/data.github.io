@@ -1,0 +1,24 @@
+{
+	"notes":[
+		{	
+			"title":"Note 1",
+			"tagline":"my first note",
+			"note":"here is my firt note"
+		},
+		{	
+			"title":"Note 2",
+			"tagline":"my second note",
+			"note":"here is my second note"
+		},
+		{	
+			"title":"Note 3",
+			"tagline":"my third note",
+			"note":"here is my third note"
+		},
+		{	
+			"title":"Note 4",
+			"tagline":"my fourt note",
+			"note":"here is my fourt note"
+		}
+	]
+}
