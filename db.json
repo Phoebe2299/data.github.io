@@ -1,24 +1,60 @@
 {
-	"notes":[
-		{	
-			"title":"Note 1",
-			"tagline":"my first note",
-			"note":"here is my firt note"
-		},
-		{	
-			"title":"Note 2",
-			"tagline":"my second note",
-			"note":"here is my second note"
-		},
-		{	
-			"title":"Note 3",
-			"tagline":"my third note",
-			"note":"here is my third note"
-		},
-		{	
-			"title":"Note 4",
-			"tagline":"my fourt note",
-			"note":"here is my fourt note"
-		}
-	]
+  "notes": [
+    {
+      "id": "1",
+      "title": "Note 1",
+      "tagline": "my first note",
+      "note": "here is my firt note",
+      "pinned": false
+    },
+    {
+      "id": "e5d8ce57-dc08-4f21-8ad9-60b72c4e11b9",
+      "title": "vsfdgshf",
+      "tagline": "bdfggsyftgyue",
+      "note": "nxzbvbdhjdjsfg",
+      "pinned": false
+    },
+    {
+      "id": "171e2916-56cd-4be4-bfbd-e22d58167e56",
+      "title": "sdnbshfd",
+      "tagline": "nvjhdxkhfjkdshf",
+      "note": "bdvjhdbjdshfds fuidsfuisd fsdiufiudsfisufiewirf ieurieuweiuewr ewre",
+      "pinned": false
+    },
+    {
+      "id": "9b156a0e-cde9-4ad4-aa8a-4dea863a6225",
+      "title": "ndbjbfjdhsh",
+      "tagline": " mnebfehjhew ",
+      "note": "ehfjherewjkrjkewhr",
+      "pinned": false
+    },
+    {
+      "id": "a8e1f60a-0629-408a-a8b4-898ad275ffd2",
+      "title": "rmnebjhrejr",
+      "tagline": "jdkfhdsfjh",
+      "note": "mndbfndbsnfb  dbfjh bfjdbjgd dbjdbgjdjgdfbgndg",
+      "pinned": false
+    },
+    {
+      "id": "f8f9c58e-8f6b-4038-9376-e028417a9067",
+      "title": "dnbdjhgjdhj",
+      "tagline": " ebfhbhtjert ",
+      "note": "ejsknfjsjfhjhgjer",
+      "pinned": false
+    },
+    {
+      "id": "05987004-78ee-49c9-823d-8847d485d9fd",
+      "title": "ssssssss",
+      "tagline": "fffffffff",
+      "note": "gdddddddeeeeeerrrrrrrrrrr",
+      "pinned": false
+    },
+    {
+      "id": "d606f187-aeea-4d3e-8f89-dcead6be1d90",
+      "title": "dfgdfgr",
+      "tagline": "trtrt",
+      "note": "fgdfgfgfgf",
+      "pinned": true
+    }
+  ]
 }
